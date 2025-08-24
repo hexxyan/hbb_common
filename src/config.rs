@@ -101,7 +101,7 @@ const CHARS: &[char] = &[
 ];
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["remote.feixiansoft.com"];
-pub const RS_PUB_KEY: &str = "je9WJpbrrVsNMdY+gaImaRefl2Y5q4G69JphpMGKksI=";
+pub const RS_PUB_KEY: &str = "tl48xfBh5dOgvgKbTwFNWqMplzROaqH0sSJiZ6mT+hc=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
